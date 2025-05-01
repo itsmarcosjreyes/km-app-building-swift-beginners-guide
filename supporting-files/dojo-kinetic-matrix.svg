@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" version="1.1" width="800" height="150" style="display: block; margin: auto;">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4c00">
+        <animate attributeName="stop-color" values="#ff4c00;#f9b50d;#00a500;#0329d6;#ab27a9;#ffffff;#000000;#ff4c00" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#f9b50d">
+        <animate attributeName="stop-color" values="#f9b50d;#00a500;#0329d6;#ab27a9;#ffffff;#000000;#ff4c00;#f9b50d" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="40%" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="bold" fill="url(#gradient)" dominant-baseline="middle" text-anchor="middle">
+    App Building with Swift:
+  </text>
+  <text x="50%" y="80%" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" font-weight="bold" fill="url(#gradient)" dominant-baseline="middle" text-anchor="middle">
+    Your Beginner's Guide
+  </text>
+</svg>
