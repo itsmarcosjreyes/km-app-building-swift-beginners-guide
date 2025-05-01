@@ -87,7 +87,7 @@ sequenceDiagram
 
 ---
 <p align="center">
-<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z2YjczaW00emY4MW1pYW1vb28zY2drajZxZ280Z3Q1ZXExNnltbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpKcfSQm50HatLGBCi/giphy.gif" width="630">
+<img align="center" src="https://github.com/itsmarcosjreyes/km-app-building-swift-beginners-guide/blob/main/supporting-files/kinetic-matrix-dojo-unleash-your-power.gif" width="630">
 </p>
 <p align="center">
 Let’s embark on this adventure together, make your Swift coding dreams a reality, and unleash your power! 🥷🚀
